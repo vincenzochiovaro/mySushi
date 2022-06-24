@@ -5,7 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 
-// https://www.youtube.com/watch?v=MNE7hsP3JtY&ab_channel=PitoneProgrammatore min 31.02
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
