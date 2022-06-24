@@ -7,6 +7,9 @@ import dynamite from './images/dynamite.png';
 import philadelphia from './images/philadelphia.png';
 import rainbow from './images/rainbow.png';
 import shrimp from './images/shrimp.png';
+import avocador from './images/avocador.png';
+import Maki from './images/Maki.png';
+
 
 class App extends Component {
   state ={
@@ -17,6 +20,9 @@ class App extends Component {
         {id: 3, nome: "Rainbow", price: 4.99, picture: rainbow, quantity:0},
         {id: 4, nome: "Philadelphia", price: 5.99, picture: philadelphia, quantity:0},
         {id: 5, nome: "Dragon", price: 9.99, picture: dragon, quantity:0},
+        {id: 6, nome: "Avocado", price: 6.99, picture: avocador, quantity:0},
+        {id: 7, nome: "Maki", price: 8.99, picture: Maki, quantity:0},
+       
 ]
 }
 
